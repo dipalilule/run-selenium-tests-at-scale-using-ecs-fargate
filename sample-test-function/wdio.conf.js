@@ -18,7 +18,7 @@ exports.config = {
     // according to your user and key information. However, if you are using a private Selenium
     // backend you should define the host address, port, and path here.
     //
-    hostname: 'testi-Selen-1A7NIIN78SIG5-728934580.us-east-1.elb.amazonaws.com',
+    hostname: 'testi-selen-g0qootr5g7oo-670010207.ap-south-1.elb.amazonaws.com/',
     port: 4444,
     path: '/wd/hub',
     //
